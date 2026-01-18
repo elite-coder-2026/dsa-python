@@ -1,4 +1,4 @@
-def tree_sum(nums):
+def three_sum(nums):
     """
     todo: find all unique triplets that sum to zero
     todo: time complexity O(n^2)
